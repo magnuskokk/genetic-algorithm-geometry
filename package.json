@@ -1,7 +1,7 @@
 {
   "name": "genetic-algorithm-geometry",
   "version": "1.0.0",
-  "description": "",
+  "description": "Evolve random 2D shapes into circles using a genetic algorithm",
   "scripts": {
     "start": "brunch watch --server",
     "prod": "brunch build --production"
