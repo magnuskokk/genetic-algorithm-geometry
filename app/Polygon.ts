@@ -1,9 +1,7 @@
-import { Utils } from "./utils";
+import { Utils } from "./Utils";
 import * as ConcaveMan from 'concaveman';
 
 let utils = new Utils();
-
-//let myValidator = new ZipCodeValidator();
 
 export class Polygon {
     vertices: number[][];
